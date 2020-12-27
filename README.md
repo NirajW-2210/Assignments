@@ -1,2 +1,3 @@
 # Assignments
-BoardInfinity Assignments
+ Assignments given by BoardInfinity
+ 
