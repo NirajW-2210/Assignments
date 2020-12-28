@@ -1,0 +1,21 @@
+h1
+{
+  color:violet;
+}
+h3
+{
+   color:darkgoldenrod;
+   margin-left:  20px;
+}
+
+table
+{
+   border: 2px solid red;
+   width :   90%;
+
+}
+
+td
+{
+border: 2px solid black;
+}
